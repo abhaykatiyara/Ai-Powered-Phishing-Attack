@@ -14,7 +14,7 @@ AI-assisted code generation
 FormSpark (for demonstration form submission)
 Educational Purpose
 
-This project highlights:
+This project highlights: 
 
 How convincing phishing pages can be created using AI.
 The importance of verifying website URLs and domains.
